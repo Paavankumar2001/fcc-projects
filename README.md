@@ -1,2 +1,2 @@
 # fcc-projects
- Projects for courses on fewwcodecamp
+ Projects for courses on freecodecamp.org
